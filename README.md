@@ -1,13 +1,21 @@
-# Introduction to Machine learning concepts, with [Kaggle's Titanic Challenge](https://www.kaggle.com/c/titanic) examples.
+# Introduction to Machine Learning
 
-## Static version
+- [Let me just read the intro](#static-intro)
+- [Let me play with the intro](#dynamic-intro)
 
-Walk through these static notebooks
+## Static intro
+
+Walk through the static notebooks:
 
 - [Machine Learning Begins](/notebooks/machine-learning-begins.ipynb)
-- [Machine Learning Continues](/notebooks/machine-learning-continues.ipynb)
+  - Machine Learning concepts
 
-## Dynamic version
+- [Machine Learning Continues](/notebooks/machine-learning-continues.ipynb)
+  - Basic code example to solve the [Kaggle's Titanic Challenge](https://www.kaggle.com/c/titanic)
+
+## Dynamic intro
+
+Follow the next steps to clone, install, execute, open, and edit the notebooks on your own machine:
 
 ### Install
 
@@ -17,11 +25,14 @@ Install [Anaconda](https://docs.continuum.io/anaconda/install/#detailed-installa
 
 Clone the repository, and run `jupyter notebook` on the project's root directory.
 
-### Open
-
 Jupyter will automatically be opened on your browser at `localhost:8888/`.
 
-Drill down to `/notebooks`, and open the following files (in sequence):
+### Open
+
+Drill down to `/notebooks`, and open the following notebooks (in sequence):
 
 - `machine-learning-begins.ipynb`
+  - Machine Learning concepts
+
 - `machine-learning-continues.ipynb`
+  - Basic code example to solve the [Kaggle's Titanic Challenge](https://www.kaggle.com/c/titanic)
